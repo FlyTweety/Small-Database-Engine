@@ -1,0 +1,25 @@
+[T 22:41:27 24500] Initializing tracer in Lua mode.
+[T 22:41:27 24500] Initialising tags...
+[T 22:41:27 24500] CodeQL CLI version 2.10.5
+[T 22:41:27 24500] Initializing tracer in Lua mode.
+[T 22:41:27 24500] Initialising tags...
+[T 22:41:27 24500] Allocated ID A166F01300005FB4_0000000000000001 (parent )
+[T 22:41:27 24500] ==== Candidate to intercept: F:\CodeQL\codeql\tools\win64\runner.exe (33248) ====
+[T 22:41:27 24500] Executing the following tracer actions:
+[T 22:41:27 24500] Tracer actions:
+[T 22:41:27 24500] pre_invocations(0)
+[T 22:41:27 24500] post_invocations(0)
+[T 22:41:27 24500] trace_languages(1): [cpp]
+[T 22:41:27 33248] Initializing tracer in Lua mode.
+[T 22:41:27 33248] Initialising tags...
+[T 22:41:27 33248] ID set to A166F01300005FB4_0000000000000001 (parent root)
+[T 22:41:27 33248] Allocated ID 10B5FBD2000081E0_0000000000000001 (parent A166F01300005FB4_0000000000000001)
+[T 22:41:27 33248] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (24436) ====
+[T 22:41:27 33248] Executing the following tracer actions:
+[T 22:41:27 33248] Tracer actions:
+[T 22:41:27 33248] pre_invocations(0)
+[T 22:41:27 33248] post_invocations(0)
+[T 22:41:27 33248] trace_languages(1): [cpp]
+[T 22:41:27 24436] Initializing tracer in Lua mode.
+[T 22:41:27 24436] Initialising tags...
+[T 22:41:27 24436] ID set to 10B5FBD2000081E0_0000000000000001 (parent A166F01300005FB4_0000000000000001)

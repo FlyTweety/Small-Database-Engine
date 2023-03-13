@@ -1,0 +1,34 @@
+---
+sourceLocationPrefix: "G:\\wsl_file\\yanshou"
+baselineLinesOfCode: 51543
+unicodeNewlines: false
+columnKind: "utf8"
+primaryLanguage: "cpp"
+inProgress:
+  primaryLanguage: "cpp"
+  installedExtractors:
+    cpp:
+    - "file:///F:/CodeQL/codeql/cpp/"
+    csharp:
+    - "file:///F:/CodeQL/codeql/csharp/"
+    csv:
+    - "file:///F:/CodeQL/codeql/csv/"
+    go:
+    - "file:///F:/CodeQL/codeql/go/"
+    html:
+    - "file:///F:/CodeQL/codeql/html/"
+    java:
+    - "file:///F:/CodeQL/codeql/java/"
+    javascript:
+    - "file:///F:/CodeQL/codeql/javascript/"
+    properties:
+    - "file:///F:/CodeQL/codeql/properties/"
+    python:
+    - "file:///F:/CodeQL/codeql/python/"
+    ruby:
+    - "file:///F:/CodeQL/codeql/ruby/"
+    xml:
+    - "file:///F:/CodeQL/codeql/xml/"
+creationMetadata:
+  cliVersion: "2.10.5"
+  creationTime: "2022-09-20T14:41:27.358200200Z"

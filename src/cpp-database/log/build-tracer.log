@@ -1,0 +1,25 @@
+[T 22:41:39 24148] Initializing tracer in Lua mode.
+[T 22:41:39 24148] Initialising tags...
+[T 22:41:39 24148] CodeQL CLI version 2.10.5
+[T 22:41:39 24148] Initializing tracer in Lua mode.
+[T 22:41:39 24148] Initialising tags...
+[T 22:41:39 24148] Allocated ID 86E321E500005E54_0000000000000001 (parent )
+[T 22:41:39 24148] ==== Candidate to intercept: F:\CodeQL\codeql\tools\win64\runner.exe (22476) ====
+[T 22:41:39 24148] Executing the following tracer actions:
+[T 22:41:39 24148] Tracer actions:
+[T 22:41:39 24148] pre_invocations(0)
+[T 22:41:39 24148] post_invocations(0)
+[T 22:41:39 24148] trace_languages(1): [cpp]
+[T 22:41:39 22476] Initializing tracer in Lua mode.
+[T 22:41:39 22476] Initialising tags...
+[T 22:41:39 22476] ID set to 86E321E500005E54_0000000000000001 (parent root)
+[T 22:41:39 22476] Allocated ID FCEE1E56000057CC_0000000000000001 (parent 86E321E500005E54_0000000000000001)
+[T 22:41:39 22476] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (26608) ====
+[T 22:41:39 22476] Executing the following tracer actions:
+[T 22:41:39 22476] Tracer actions:
+[T 22:41:39 22476] pre_invocations(0)
+[T 22:41:39 22476] post_invocations(0)
+[T 22:41:39 22476] trace_languages(1): [cpp]
+[T 22:41:39 26608] Initializing tracer in Lua mode.
+[T 22:41:39 26608] Initialising tags...
+[T 22:41:39 26608] ID set to FCEE1E56000057CC_0000000000000001 (parent 86E321E500005E54_0000000000000001)
