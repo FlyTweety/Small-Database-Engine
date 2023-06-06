@@ -1,1 +1,2 @@
-A Single User Database Engine based on CMU 15-445
+# Small-Database-Engine
+A Single User Database Engine mainly based on CMU 15-445
